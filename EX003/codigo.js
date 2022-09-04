@@ -3,6 +3,8 @@ Sintaxe basica
 Extrutura de decisão (if else)
 /*/
 /*/
+Estrutura de decisão
+
 if(codicao) {
     declaracao_1;
 } else {
@@ -20,9 +22,9 @@ if(codicao) {
 }
 /*/
 
-/*/ Exemplo /*/
+/*/ 
+Exemplo
 
-/*/
 var idade;
 idade = prompt("digite sua idade: ");
 
@@ -57,6 +59,7 @@ switch(expressao) {
 
 /*/
 
+/*/ Exemplo /*/
 cargo = prompt("Digite seu cargo:");
 salario = 2000;
 
